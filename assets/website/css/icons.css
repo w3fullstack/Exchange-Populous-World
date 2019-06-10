@@ -1,0 +1,56 @@
+.spritewallet, .spritesettings, .spritedepth-chart, .spritedepth-chart-selected, .spritemenu14, 
+.spritegraph, .spritemenu4, .spritecandlesticks, .spritecandlesticks-selected, .spritemenu1, 
+.spritemenu10, .spritemenu11, .spritemenu12, .spritemenu15, .spritemenu2, 
+.spritemenu3, .spritemenu6, .spritemenu7, .spritemenu8, .spritemenu9, 
+.spriteoptions, .spritereorder, .spritetool, .spritewallet-small, .spritehours, 
+.spritesubmenu3, .spritemenu13, .spritemenu16, .spritesubmenu10, .spritesubmenu2, 
+.spritetrash, .spritearrow-down, .spritearrow-up, .spritemenu5, .spritesubmenu1, 
+.spritesubmenu5, .spritesubmenu6, .spritecandlesticks-settings, .spritesubmenu4, .spritesubmenu7, 
+.spritesubmenu8, .spritesubmenu9, .spritecandlesticks-view, .spritecandlesticks-delete, .spritedrop-down
+{ display: inline-block; background: url('../img/icons.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.spritewallet { background-position: -5px -0px; width: 34px; height: 34px; }
+.spritesettings { background-position: -5px -39px; width: 32px; height: 32px; }
+.spritedepth-chart { background-position: -5px -76px; width: 28px; height: 22px; }
+.spritedepth-chart-selected { background-position: -5px -103px; width: 28px; height: 22px; }
+.spritemenu14 { background-position: -5px -130px; width: 28px; height: 16px; }
+.spritegraph { background-position: -5px -151px; width: 27px; height: 20px; }
+.spritemenu4 { background-position: -5px -176px; width: 25px; height: 25px; }
+.spritecandlesticks { background-position: -5px -206px; width: 24px; height: 27px; }
+.spritecandlesticks-selected { background-position: -5px -238px; width: 24px; height: 27px; }
+.spritemenu1 { background-position: -5px -270px; width: 24px; height: 24px; }
+.spritemenu10 { background-position: -5px -299px; width: 24px; height: 24px; }
+.spritemenu11 { background-position: -5px -328px; width: 24px; height: 24px; }
+.spritemenu12 { background-position: -5px -357px; width: 24px; height: 24px; }
+.spritemenu15 { background-position: -5px -386px; width: 24px; height: 24px; }
+.spritemenu2 { background-position: -5px -415px; width: 24px; height: 24px; }
+.spritemenu3 { background-position: -5px -444px; width: 24px; height: 24px; }
+.spritemenu6 { background-position: -5px -473px; width: 24px; height: 24px; }
+.spritemenu7 { background-position: -5px -502px; width: 24px; height: 24px; }
+.spritemenu8 { background-position: -5px -531px; width: 24px; height: 20px; }
+.spritemenu9 { background-position: -5px -556px; width: 24px; height: 24px; }
+.spriteoptions { background-position: -5px -585px; width: 24px; height: 24px; }
+.spritereorder { background-position: -5px -614px; width: 24px; height: 24px; }
+.spritetool { background-position: -5px -643px; width: 24px; height: 24px; }
+.spritewallet-small { background-position: -5px -672px; width: 24px; height: 24px; }
+.spritehours { background-position: -5px -701px; width: 23px; height: 21px; }
+.spritesubmenu3 { background-position: -5px -727px; width: 23px; height: 23px; }
+.spritemenu13 { background-position: -5px -755px; width: 20px; height: 24px; }
+.spritemenu16 { background-position: -5px -784px; width: 20px; height: 24px; }
+.spritesubmenu10 { background-position: -5px -813px; width: 20px; height: 16px; }
+.spritesubmenu2 { background-position: -5px -834px; width: 20px; height: 19px; }
+.spritetrash { background-position: -5px -858px; width: 20px; height: 24px; }
+.spritearrow-down { background-position: -5px -887px; width: 19px; height: 23px; }
+.spritearrow-up { background-position: -5px -915px; width: 19px; height: 23px; }
+.spritemenu5 { background-position: -5px -943px; width: 18px; height: 43px; }
+.spritesubmenu1 { background-position: -5px -991px; width: 18px; height: 24px; }
+.spritesubmenu5 { background-position: -5px -1020px; width: 18px; height: 18px; }
+.spritesubmenu6 { background-position: -5px -1043px; width: 18px; height: 18px; }
+.spritecandlesticks-settings { background-position: -5px -1066px; width: 16px; height: 16px; }
+.spritesubmenu4 { background-position: -5px -1087px; width: 16px; height: 16px; }
+.spritesubmenu7 { background-position: -5px -1108px; width: 16px; height: 16px; }
+.spritesubmenu8 { background-position: -5px -1129px; width: 16px; height: 16px; }
+.spritesubmenu9 { background-position: -5px -1150px; width: 16px; height: 16px; }
+.spritecandlesticks-view { background-position: -5px -1171px; width: 14px; height: 8px; }
+.spritecandlesticks-delete { background-position: -5px -1184px; width: 12px; height: 12px; }
+.spritedrop-down { background-position: -22px -1184px; width: 12px; height: 12px; }
